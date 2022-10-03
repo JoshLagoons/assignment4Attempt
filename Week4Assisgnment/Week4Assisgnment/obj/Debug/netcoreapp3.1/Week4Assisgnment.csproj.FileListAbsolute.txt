@@ -1,0 +1,14 @@
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.exe
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.deps.json
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.runtimeconfig.json
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.runtimeconfig.dev.json
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.dll
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\bin\Debug\netcoreapp3.1\Week4Assisgnment.pdb
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.csproj.AssemblyReference.cache
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.AssemblyInfoInputs.cache
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.AssemblyInfo.cs
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.csproj.CoreCompileInputs.cache
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.dll
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.pdb
+C:\Users\13129\Desktop\Week4Assisgnment\Week4Assisgnment\obj\Debug\netcoreapp3.1\Week4Assisgnment.genruntimeconfig.cache
