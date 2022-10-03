@@ -14,7 +14,7 @@ namespace Week4Assisgnment
         List<IDelimitedFile> FileStyleUriParser = new List<IDelimitedFile>();
         List<Error> errorParse = new List<Error>();
 
-        bool hasError2 => errorParse.Any();
+        bool hasError2 {get; set;)
         public Parser(List<string> outputting)
         {
             foreach(var naming in outputting)
